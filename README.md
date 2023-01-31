@@ -6,3 +6,5 @@ Now, an IT infrastructure consists of more than just what I mentioned. My goal w
 
 This repository will be used for me to document the network and briefly explain how I set each component up.
 
+[Wiki -->>](https://github.com/Princeton45/ACME-Network/wiki/1.-Prerequisites) 
+
